@@ -3,6 +3,7 @@
 public class Ticket
 {
     public int Id { get; set; }
-    public int ScreenId { get; set; }
-    public int Seats { get; set; }
+    public int ScreeningId { get; set; }
+    public int Seat { get; set; }
+    public decimal Price { get; set; }
 }
