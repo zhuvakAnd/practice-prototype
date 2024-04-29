@@ -14,6 +14,6 @@ public class DataContext : DbContext
     
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseSqlServer("Server=localhost:3306;Database=cinema;Uid=root;Pwd=root;");
+        optionsBuilder.UseMySQL("server=localhost;database=cinema;user=root;password=root");
     }
 }

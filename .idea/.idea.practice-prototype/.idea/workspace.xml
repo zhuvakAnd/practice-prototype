@@ -10,8 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd20f826-756c-4e8b-8c08-fea999e216c5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.practice-prototype/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.practice-prototype/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.practice-prototype/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.practice-prototype/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data/DataContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Data/DataContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Migrations/20240429111235_InitialCreate.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Migrations/20240429111235_InitialCreate.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Migrations/DataContextModelSnapshot.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/practice-prototype.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/practice-prototype.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,7 +119,7 @@
       <updated>1714304485033</updated>
       <workItem from="1714304487297" duration="4278000" />
       <workItem from="1714312047701" duration="5503000" />
-      <workItem from="1714390139862" duration="1657000" />
+      <workItem from="1714390139862" duration="3950000" />
     </task>
     <servers />
   </component>
