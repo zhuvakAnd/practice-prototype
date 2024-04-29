@@ -10,13 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd20f826-756c-4e8b-8c08-fea999e216c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Data/DataContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/Hall.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/Movie.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/Screening.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.practice-prototype/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.practice-prototype/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/Ticket.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Ticket.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/DataContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Data/DataContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-prototype.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/practice-prototype.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +43,14 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [],
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ],
     &quot;rider.external.source.directories&quot;: [
       &quot;C:\\Users\\1\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache&quot;,
       &quot;C:\\Users\\1\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache&quot;,
@@ -113,7 +114,8 @@
       <option name="presentableId" value="Default" />
       <updated>1714304485033</updated>
       <workItem from="1714304487297" duration="4278000" />
-      <workItem from="1714312047701" duration="1554000" />
+      <workItem from="1714312047701" duration="5503000" />
+      <workItem from="1714390139862" duration="1657000" />
     </task>
     <servers />
   </component>
